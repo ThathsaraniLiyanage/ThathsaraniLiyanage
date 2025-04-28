@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thathsaraniliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="thathsaraniliyanage" /> </p>
 
-- 🔭 I’m currently working on **Personal Budget Tracker**
+- 🔭 I’m currently working on **"Vogue Vista" - online fashion store management**
 
-- 🌱 I’m currently learning **Java, C#, Android**
+- 🌱 I’m currently learning **Java, C#, Full Stack Deelopment**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, HTML, CSS, JS**
 
 - 📫 How to reach me **tliyanage007@gmail.com**
 
